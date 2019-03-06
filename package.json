@@ -42,9 +42,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/jesse-yin/bargain-server.git"
+    "url": "https://github.com/jiang842493698/punch.git"
   },
   "private": true,
-  "author": "Jesse Yin <jesseyin1024@gmail.com>",
+  "author": "jiang chao <j842493698@gmail.com>",
   "license": "ISC"
 }
