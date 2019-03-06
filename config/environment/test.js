@@ -6,7 +6,7 @@ module.exports = {
   
     // MongoDB connection options
     mongo: {
-      uri: 'mongodb://test-yjx:tt%23f%23abc@wxxcx-db/punchcard-test?authSource=admin'
+      uri: ''
     },
   
     // Mongoose debug option
@@ -14,13 +14,13 @@ module.exports = {
 
     // tenpay
     tenpay: {
-      notify_url: 'https://pcht.wofangyou.cn/api/orders/pay',
-      refund_url: 'https://pcht.wofangyou.cn/api/orders/refund'
+      notify_url: '',
+      refund_url: ''
     },
 
     //消息链接
     messageUrl:{
-      url : 'http://mt.wofangyou.cn'
+      url : ''
     },
   
     day: 0,

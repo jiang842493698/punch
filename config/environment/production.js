@@ -6,13 +6,13 @@ module.exports = {
   
     // MongoDB connection options
     mongo: {
-      uri: 'mongodb://yinjiaxian:dby%23j1%23a@wxxcx-db/punchcard?authSource=admin'
+      uri: 'mongodb:'
     },
  
     // tenpay
     tenpay: {
-      notify_url: 'https://pch.wofangyou.cn/api/orders/pay',
-      refund_url: 'https://pch.wofangyou.cn/api/orders/refund'
+      notify_url: '',
+      refund_url: ''
     },
 
     // Mongoose debug option
@@ -20,7 +20,7 @@ module.exports = {
 
     //消息链接
     messageUrl:{
-      url : 'http://m.wofangyou.cn'
+      url : ''
     },
   
     // Seed

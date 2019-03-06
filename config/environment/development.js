@@ -6,7 +6,7 @@ module.exports = {
   
     // MongoDB connection options
     mongo: {
-      uri: 'mongodb://localhost/raffle-dev',
+      uri: '',
     },
     
     // Mongoose debug option
@@ -14,10 +14,10 @@ module.exports = {
 
     //消息链接
     messageUrl:{
-      url : 'http://m.wofangyou.cn'
+      url : ''
     },
     
-    day: 2,
+    day: 1,
 
     // Seed
     seed: true
